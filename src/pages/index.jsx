@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Jeremy Scatigna.
         </BigTitle>
-        <Subtitle>I'm creating web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle>I'm creating experiences for the next generation of consumer-facing companies.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -105,17 +105,10 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Jeremy Scatigna" />
           <AboutSub>
-            Frenchy Front-end Engineer slightly geek on the edges and optionally a Tech lover. I'm pretty good at having
+            Frenchy Software Engineer slightly geek on the edges and optionally a Tech lover. I'm pretty good at having
             fun and drinking beers and I developed some sniper skills at playing ping pong.
           </AboutSub>
         </AboutHero>
-        <AboutDesc>
-          I’ve just had my black belt in JavaScript and I’m ready for new fights. I'm hungry of learning new things
-          everyday with the philosophy to not just work on your project but care about the project you work on with a
-          single sentence driving me “Learning by making”. So if you are ready to let me join your beautiful adventure,
-          to let me continue to innovate each day, to eat JavaScript from breakfast to dinner but most importantly to be
-          part of something important, Contact me.
-        </AboutDesc>
       </About>
       <Contact offset={4}>
         <Inner>
@@ -126,11 +119,7 @@ const Index = () => (
             <a href="https://twitter.com/scatigna_jeremy">Twitter</a>
           </ContactText>
         </Inner>
-        <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LekoArts</a>.
-        </Footer>
+        <Footer />
       </Contact>
     </Parallax>
   </>
