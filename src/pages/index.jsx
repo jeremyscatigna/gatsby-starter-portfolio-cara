@@ -71,32 +71,32 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Outer"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            title="Traffic light classifier"
+            link="https://github.com/jeremyscatigna/Traffic_light_classifier"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project is my entry to Adobe's #ChallengeYourPerspective contest.
+            This project is my last project of Intro to Self Driving cars Nanodegree.
           </ProjectCard>
           <ProjectCard
-            title="Hostee"
-            link="https://www.behance.net/gallery/52915793/Harry-Potter"
+            title="2D Histogram Filter in Python"
+            link="https://github.com/jeremyscatigna/2D_histogram_filter"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            I entered the DOCMA 2017 award with this Harry Potter inspired image.
+            This project is part of my Intro to Self Driving cars Nanodegree.
           </ProjectCard>
           <ProjectCard
-            title="Bros"
-            link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+            title="2D Histogram Filter in C++"
+            link="https://github.com/jeremyscatigna/2D-HistogramFilterCPP"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Recreation of a Tomb Raider Wallpaper (Fan Art)
+            This project is part of my Intro to Self Driving cars Nanodegree.
           </ProjectCard>
           <ProjectCard
-            title="Kosmos"
-            link="https://www.behance.net/gallery/38068151/Eagle"
+            title="Matrix Class"
+            link="https://github.com/jeremyscatigna/matrix-class"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            A fantasy image manipulation relocating the habitat of wild animals.
+            This project is part of my Intro to Self Driving cars Nanodegree.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
